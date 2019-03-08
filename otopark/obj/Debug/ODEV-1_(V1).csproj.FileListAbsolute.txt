@@ -1,0 +1,34 @@
+C:\Users\Afran\Desktop\ODEV-1_(V1)\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).exe.config
+C:\Users\Afran\Desktop\ODEV-1_(V1)\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).exe
+C:\Users\Afran\Desktop\ODEV-1_(V1)\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).pdb
+C:\Users\Afran\Desktop\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).csprojResolveAssemblyReference.cache
+C:\Users\Afran\Desktop\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV_1__V1_.Form1.resources
+C:\Users\Afran\Desktop\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV_1__V1_.Properties.Resources.resources
+C:\Users\Afran\Desktop\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).csproj.GenerateResource.Cache
+C:\Users\Afran\Desktop\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).exe
+C:\Users\Afran\Desktop\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).pdb
+C:\Users\njhvbglk\Desktop\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).exe.config
+C:\Users\njhvbglk\Desktop\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).exe
+C:\Users\njhvbglk\Desktop\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).pdb
+C:\Users\njhvbglk\Desktop\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).exe
+C:\Users\njhvbglk\Desktop\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).pdb
+C:\Users\njhvbglk\Desktop\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).csprojResolveAssemblyReference.cache
+C:\Users\njhvbglk\Desktop\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV_1__V1_.Form1.resources
+C:\Users\njhvbglk\Desktop\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV_1__V1_.Properties.Resources.resources
+C:\Users\njhvbglk\Desktop\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).csproj.GenerateResource.Cache
+C:\Users\Yahya\Desktop\Kaynaklar\veri yapıları\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).exe.config
+C:\Users\Yahya\Desktop\Kaynaklar\veri yapıları\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).exe
+C:\Users\Yahya\Desktop\Kaynaklar\veri yapıları\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).pdb
+C:\Users\Yahya\Desktop\Kaynaklar\veri yapıları\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).csprojResolveAssemblyReference.cache
+C:\Users\Yahya\Desktop\Kaynaklar\veri yapıları\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV_1__V1_.Form1.resources
+C:\Users\Yahya\Desktop\Kaynaklar\veri yapıları\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV_1__V1_.Properties.Resources.resources
+C:\Users\Yahya\Desktop\Kaynaklar\veri yapıları\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).csproj.GenerateResource.Cache
+C:\Users\Yahya\Desktop\Kaynaklar\veri yapıları\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).csproj.CoreCompileInputs.cache
+C:\Users\Yahya\Desktop\Kaynaklar\veri yapıları\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).exe
+C:\Users\Yahya\Desktop\Kaynaklar\veri yapıları\ODEV-1_(V2)\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).pdb
+C:\Users\Afran\Desktop\Ödev\ODEV-1\ODEV-1_(V1)\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).exe.config
+C:\Users\Afran\Desktop\Ödev\ODEV-1\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).exe
+C:\Users\Afran\Desktop\Ödev\ODEV-1\ODEV-1_(V1)\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).pdb
+D:\cbü ders\sınıf2\dönem2\veri yapıları\projeler\proje 1\Veri_Yapıları_Projesi\Veri_Yapıları_Projesi\ODEV-1\ODEV-1_(V1)\bin\Debug\ODEV-1_(V1).exe.config
+D:\cbü ders\sınıf2\dönem2\veri yapıları\projeler\proje 1\Veri_Yapıları_Projesi\Veri_Yapıları_Projesi\ODEV-1\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).exe
+D:\cbü ders\sınıf2\dönem2\veri yapıları\projeler\proje 1\Veri_Yapıları_Projesi\Veri_Yapıları_Projesi\ODEV-1\ODEV-1_(V1)\obj\Debug\ODEV-1_(V1).pdb
