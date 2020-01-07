@@ -1,3 +1,5 @@
 # OtoparkSiraliCikisProjesi
 
-Bu projede kuyruk veri yapısı kullanılmaya çalışılarak bir otopark çıkış sistemi oluşturulmaya çalışılmıştır.
+Üniversitede Veri Yapıları dersi kapsamında gerçekleştirilmiştir.
+Veri Yapılarının stack, queue ve list yapıları kullanıldı.
+Kullanılan bu yapılar bir aracın otoparktan çıkışını ve alışveriş uygulamalarında kullanıldı.
